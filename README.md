@@ -1,1 +1,4 @@
-<p>Структура проекта с static, templates на flask</p>
+<p>
+Здесь просто представлена структура проекта с static, templates на flask <br>
+pip install -r requirements.txt - скачать библиотеки
+</p>
