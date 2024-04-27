@@ -1,0 +1,32 @@
+
+
+.table_data{
+    color:#19bf98;
+    text-align: center;
+}
+
+table {
+    alignment: center;
+    width: 100%;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    table-layout: fixed;
+    border: 1px solid black;
+
+}
+
+table td {
+	border: 1px solid black;
+    padding: 5px;
+   }
+
+.table_color{
+    background-color: #07f7bf;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
