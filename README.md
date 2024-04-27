@@ -1,0 +1,1 @@
+<p>Структура проекта с static, templates на flask</p>
